@@ -5,3 +5,25 @@ Currently, this is all definitions. Some definitions are copied straight from th
 
 
 **Status:** All definitions throught chapter 6.
+
+- [Term-level & Type-Level]()
+- [Logical conjunction]() - empty
+- [Logical disjunction]() - empty
+- [Sum type]()
+- [Sumber class & Subclass]()
+- [Enum]()
+- [Nullary]()
+- [Derived instance]()
+- [Instance]()
+- [IO]()
+- [Effects]()
+- [Type class inheritance]()
+- [Module]()
+- [Ad-hoc polymorphism (constrained polymorphism]()
+- [Parametricity]()
+- [Type inference]()
+- [Data structures]()
+- [Tuple]()
+- [Data constructors]()
+- [Scope]()
+- [Concatenation]()

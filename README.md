@@ -12,7 +12,7 @@ Currently, this is all definitions. Some definitions are copied straight from th
 1. [Argument vs Parameter](https://github.com/klequis/haskell-notebook/issues/30)
 1. [Arity](https://github.com/klequis/haskell-notebook/issues/2)
 1. [Beta Reduction](https://github.com/klequis/haskell-notebook/issues/3)
-1. [Bindings - local & top level](https://github.com/klequis/haskell-notebook/issues/4)
+1. [Bindings or Bound (local & top level)](https://github.com/klequis/haskell-notebook/issues/4)
 1. [Bound variable](https://github.com/klequis/haskell-notebook/issues/5)
 1. [A Calculus](https://github.com/klequis/haskell-notebook/issues/6)
 1. [Church-Rosser property](https://github.com/klequis/haskell-notebook/issues/7)

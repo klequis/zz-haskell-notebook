@@ -123,6 +123,15 @@ So the answers to the original question is:
 - Associativity is essential
 - And while not in the original question, the placement of the initial value is also essential.
 
+
+---
+
+## Using large numbers
+
+I was curious how large of a list one could use before the built-in `foldl` & `foldr` and a stack overflow error. I did a very crude test. It turns out, on my machine, both could do 10,000,000 and both had a stack overflow error with 100,000,000.
+
+
+
 ---
 
 ## Reference:

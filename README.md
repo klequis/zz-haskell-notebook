@@ -1,10 +1,13 @@
 # haskell-notebook
 Notes from learning Haskell
 
-Currently, this is all definitions. Some definitions are copied straight from the book [Haskell Programming from first principles](https://haskellbook.com/). Some are enhanced with information from other sources or have text that is my personal interpretation. Because enhanced definitions reflect my understanding of Haskell and I am a beginner, they may not be fully correct.
+Welcome to my Haskell notebook. This is mostly just notes to my self. I am creating a glossary as issues. They are tagged to indicate if they are incomplete or of questionable correctness. 
 
+Files in the repository address subjects at greater length. However, I'm a beginner at haskell and they more reflect my thinking than information you should take as correct.
 
-**Status:** All definitions through chapter 6.
+Some definitions are copied straight from the book [Haskell Programming from first principles](https://haskellbook.com/) because the made sense to me. Some are enhanced with information from other sources or have text that is my personal interpretation. So again, I'm a Haskell beginner ... 
+
+If you would like to contribute to a definition please feel free to credate a new one or comment on an existing one.
 
 
 1. [Ad-hoc polymorphism (constrained polymorphism](https://github.com/klequis/haskell-notebook/issues/43)

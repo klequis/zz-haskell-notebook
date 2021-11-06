@@ -5,7 +5,7 @@ Welcome to my Haskell notebook. This is mostly just notes to my self. I am creat
 
 Files in the repository address subjects at greater length. However, I'm a beginner at haskell and they more reflect my thinking than information you should take as correct.
 
-Some definitions are copied straight from the book [Haskell Programming from first principles](https://haskellbook.com/) because the made sense to me. Some are enhanced with information from other sources or have text that is my personal interpretation. So again, I'm a Haskell beginner ... 
+Some definitions are copied straight from the book [Haskell Programming from first principles](https://haskellbook.com/) because they made sense to me as is. Some are enhanced with information from other sources or have text that is my personal interpretation. So again, I'm a Haskell beginner ... 
 
 If you would like to contribute to a definition please feel free to credate a new one or comment on an existing one.
 

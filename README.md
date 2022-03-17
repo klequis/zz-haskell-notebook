@@ -13,6 +13,8 @@ Originally, files in the repository were to address subjects at greater length. 
 
 Some definitions are copied straight from the book [Haskell Programming from first principles](https://haskellbook.com/).
 
+> Please not labels which indicate definitions/topics that are incomplete or of uncertain accuracy (i.e., limited by my understanding).
+
 If you would like to contribute to a definition please feel free to create a new one or comment on an existing one.
 
 1. [Ad-hoc polymorphism (constrained polymorphism](https://github.com/klequis/haskell-notebook/issues/43)

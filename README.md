@@ -7,7 +7,7 @@ Currently this repository is a glossary that is contained in issues.
 
 Some of the definitions are more math than Haskell. When I started out I didn't make the distinction clear but have begun to do so.
 
-The definitions are created by reading mulitple sources and deriving key points that appear to be relevant to understanding the topic and/or Haskell. They are intended to be on the brief side and do intend to be complete or universal in any formal sense. 
+The definitions are created by reading mulitple sources and deriving key points that appear to be relevant to understanding the topic and/or Haskell. They are intended to be on the brief side and do not intend to be complete or universal in any formal sense. 
 
 Originally, files in the repository were to address subjects at greater length. However, I have found that easier to do in a separate location which isn't currently public.
 

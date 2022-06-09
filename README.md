@@ -1,4 +1,4 @@
-<span style="color:red">**This repo is being decomissioned. Definitions in this list are often incomplete and/or incorrect**</span>
+# This repo is being decomissioned. Definitions in this list are often incomplete and/or incorrect
 
 1. [Ad-hoc polymorphism (constrained polymorphism](https://github.com/klequis/haskell-notebook/issues/43)
 2. [Anonymous function](https://github.com/klequis/haskell-notebook/issues/60)
@@ -45,11 +45,9 @@
 43. [Normal Order](https://github.com/klequis/haskell-notebook/issues/19)
 44. [Nullary](https://github.com/klequis/haskell-notebook/issues/50)
 45. [Operators (are functions)](https://github.com/klequis/haskell-notebook/issues/20)
-46. [Parametricity](https://github.com/klequis/haskell-notebook/issues/42)
 47. [Partial functions](https://github.com/klequis/haskell-notebook/issues/21)
 48. [Pattern matching](https://github.com/klequis/haskell-notebook/issues/62)
 49. [Point-free](https://github.com/klequis/haskell-notebook/issues/66)
-50. [Polymorphism](https://github.com/klequis/haskell-notebook/issues/22)
 51. [Redexes](https://github.com/klequis/haskell-notebook/issues/23)
 52. [Referential transparency](https://github.com/klequis/haskell-notebook/issues/69)
 53. [Scope](https://github.com/klequis/haskell-notebook/issues/37)

@@ -1,21 +1,4 @@
-# haskell-notebook
-Notes from learning Haskell
-
-Welcome to my Haskell notebook. 
-
-Currently this repository is a glossary that is contained in issues.
-
-Some of the definitions are more math than Haskell. When I started out I didn't make the distinction clear but have begun to do so.
-
-The definitions are created by reading mulitple sources and deriving key points that appear to be relevant to understanding the topic and/or Haskell. They are intended to be on the brief side and do not intend to be complete or universal in any formal sense. 
-
-Originally, files in the repository were to address subjects at greater length. However, I have found that easier to do in a separate location which isn't currently public.
-
-Some definitions are copied straight from the book [Haskell Programming from first principles](https://haskellbook.com/).
-
-> Please note labels which indicate definitions/topics that are incomplete or of uncertain accuracy (i.e., limited by my understanding).
-
-If you would like to contribute to a definition please feel free to create a new one or comment on an existing one.
+<b><span style="color:red">This repo is being decomissioned. Definitions in this list are often incomplete and/or incorrect</span></b>
 
 1. [Ad-hoc polymorphism (constrained polymorphism](https://github.com/klequis/haskell-notebook/issues/43)
 2. [Anonymous function](https://github.com/klequis/haskell-notebook/issues/60)

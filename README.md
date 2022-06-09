@@ -1,4 +1,4 @@
-<b><span style="color:red">This repo is being decomissioned. Definitions in this list are often incomplete and/or incorrect</span></b>
+<span style="color:red">**This repo is being decomissioned. Definitions in this list are often incomplete and/or incorrect**</span>
 
 1. [Ad-hoc polymorphism (constrained polymorphism](https://github.com/klequis/haskell-notebook/issues/43)
 2. [Anonymous function](https://github.com/klequis/haskell-notebook/issues/60)
